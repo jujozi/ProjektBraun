@@ -1,0 +1,6 @@
+[submodule "00_Latex"]
+	path = 00_Latex
+	url = git@github.com:jujozi/ProjektBraun_latex.git
+[submodule "00_Python"]
+	path = 00_Python
+	url = git@github.com:jujozi/ProjektBraun_Python.git
